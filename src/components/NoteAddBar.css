@@ -1,0 +1,14 @@
+.NoteAddBar{
+    margin-top: 20px;
+    background: rgba(35, 35, 230, 0.3);
+    height: 40px;
+    border: 4px dashed rgba(35, 35, 230, 0.3);
+    font-size: 2rem;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding:8px;
+    line-height: 1;
+    cursor: pointer;
+    border-radius: 10px;
+}

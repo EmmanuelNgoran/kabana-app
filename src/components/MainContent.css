@@ -1,0 +1,17 @@
+.MainContent{
+    flex:1;
+}
+
+.MainContent__section{
+    
+    margin: 0 auto;
+    width: 60%;
+    max-width: 600px;
+}
+.MainContent__tasks{
+    margin-top: 15px;
+    border:1px rgba(128, 128, 128, 0.4) solid;
+    border-radius: 4px;
+    padding:10px;
+}
+

@@ -1,0 +1,37 @@
+
+.Task{
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding:15px;
+    justify-content: center;
+    box-shadow: #8d8d8d5b 2px 1px 5px , #8d8d8d5b 4px 1px 8px ;
+}
+.Task__content_header{
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.Task__play{
+    margin-left: auto;
+    cursor: pointer;
+}
+
+.Task__details{
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+
+.content_body__elements{
+    list-style: none;
+    display: block;
+}
+
+.content_body__elements  input{
+    margin-right: 10px;
+}
